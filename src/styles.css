@@ -72,3 +72,6 @@ footer {
 h4 {
   margin-left: 20px;
 }
+img{
+  max-width: 10vw;
+}
